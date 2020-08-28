@@ -1,0 +1,13 @@
+.Header-Logo{
+    height: 40px;
+    object-fit: contain;
+}
+.App-Header{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    border-bottom: 1px solid #f9f9f9;
+}
+.Header-Icon{
+    padding: 20px;
+}
