@@ -7,14 +7,14 @@ const Header = () => {
     return (
         <header className='App-Header'>
             <IconButton>
-            <PersonIcon className="Header-Icon" fontSize="large" />
+                <PersonIcon className="Header-Icon" fontSize="large" />
             </IconButton>
-            <img className="Header-Logo" 
-            src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png" alt="tinder-logo" />
+            <img className="Header-Logo"
+                src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png" alt="tinder-logo" />
             <IconButton>
-            <ForumIcon className="Header-Icon" fontSize="large" />
-        </IconButton>
-            </header >
+                <ForumIcon className="Header-Icon" fontSize="large" />
+            </IconButton>
+        </header >
     )
 }
 
